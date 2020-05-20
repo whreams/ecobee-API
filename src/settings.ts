@@ -6,4 +6,4 @@ export const PLATFORM_NAME = 'ecobee-API';
 /**
  * This must match the name of your plugin as defined the package.json
  */
-export const PLUGIN_NAME = 'homebridge-ecobee-API';
+export const PLUGIN_NAME = 'homebridge-ecobee4-api';
